@@ -64,6 +64,9 @@ The API uses the Auth0 Role Based Access Control mechanisms for implementing aut
 
 ## API Reference
 
+### Getting Started
+- Base URL: https://castingagencyfs.herokuapp.com/
+
 ### Endpoints
 
 #### GET /actors
